@@ -1,0 +1,22 @@
+* {
+	border-radius: 10px;
+}
+
+.Intro_P {
+	margin: 0 auto;
+	width: 75%;
+}
+
+.Images {
+	background: none;
+	margin: 0 auto;
+	width: 75%;
+	display: block;
+
+}
+
+.Images2 {
+	margin: 0 auto;
+	width: 75%;
+	display: block;
+}
